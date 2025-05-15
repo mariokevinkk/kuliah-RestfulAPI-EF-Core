@@ -12,5 +12,7 @@ namespace SimpleRESTApi.Models
         public string? CourseDescription { get; set; }
         public double Duration { get; set; }
         public int CategoryId { get; set; }
+
+
     }
 }
